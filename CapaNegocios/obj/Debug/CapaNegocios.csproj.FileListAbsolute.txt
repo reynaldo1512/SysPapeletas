@@ -1,0 +1,11 @@
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Reynaldo\Desktop\PAPELETASHRI\CapaNegocios\obj\Debug\CapaNegocios.pdb
